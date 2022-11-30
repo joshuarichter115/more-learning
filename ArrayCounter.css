@@ -1,0 +1,8 @@
+.arrayCounterContainer {
+    display: flex;
+    justify-content: center;
+}
+
+.arrayCounterButton {
+    margin-top: 16px;
+}

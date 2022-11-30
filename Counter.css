@@ -1,0 +1,9 @@
+.counterContainer {
+    display: flex;
+    justify-content: center;
+}
+
+.inCounter {
+    margin-top: 8px;
+    padding: 8px;
+}

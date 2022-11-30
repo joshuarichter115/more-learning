@@ -1,0 +1,9 @@
+.objectCounterContainer {
+    display: flex;
+    justify-content: center;
+}
+
+.objectCounterButton {
+    margin-top: 16px;
+
+}
